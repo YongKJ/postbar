@@ -17,6 +17,8 @@ CSI语音技术吧：[http://software.yongkj.cn/postbar/](http://software.yongkj
 
 ![20210207151058.png](WebContent/screenshot/20210207151058.png)
 
+![20210207164157.png](WebContent/screenshot/20210207164157.png)
+
 ![20210207151126.png](WebContent/screenshot/20210207151126.png)
 
 ![20210207151159.png](WebContent/screenshot/20210207151159.png)
